@@ -117,11 +117,13 @@ packages:
   - 'networkmanager'
   - 'cups'
   - 'ttf-jetbrains-mono'
+  - 'power-profiles-daemon'
 
 services:
   - 'cups'
   - 'bluetooth'
   - 'NetworkManager'
+  - 'power-profiles-daemon'
 
 user-services:
   - 'blend-files'
