@@ -1,0 +1,30 @@
+impl: 'https://github.com/blend-os/tracks/raw/main'
+
+track: 'blendos-base'
+
+packages:
+  - 'cosmic-session'
+  - 'cosmic-comp'
+  - 'cosmic-applets'
+  - 'cosmic-app-library'
+  - 'cosmic-bg'
+  - 'cosmic-icon-theme'
+  - 'cosmic-launcher'
+  - 'cosmic-notifications'
+  - 'cosmic-osd'
+  - 'cosmic-randr'
+  - 'cosmic-panel'
+  - 'cosmic-settings'
+  - 'cosmic-settings-daemon'
+  - 'cosmic-idle'
+  - 'cosmic-workspaces'
+  - 'cosmic-screenshot'
+  - 'cosmic-text-editor'
+  - 'cosmic-files'
+  - 'cosmic-terminal'
+  - 'cosmic-wallpapers'
+  - 'cosmic-greeter'
+  - 'xdg-desktop-portal-cosmic'
+
+services:
+  - 'cosmic-greeter'
