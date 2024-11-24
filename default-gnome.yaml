@@ -8,7 +8,7 @@ packages:
   - 'gnome-shell-extension-appindicator'
   - 'gnome-initial-setup'
   - 'filesystem-blend'
-  - 'firefox'
+  #- 'firefox'
   - 'fprintd'
 
 services:
