@@ -1,0 +1,28 @@
+impl: "https://github.com/blend-os/tracks/raw/main"
+
+track: "blendos-base"
+
+packages:
+  - "hyprland"
+  - "hyprpaper"
+  - "hyprpicker"
+  - "hypridle"
+  - "hyprlock"
+  - "hyprcursor"
+  - "hyprlang"
+  - "hyprutils"
+  - "kitty"
+  - "waybar"
+  - "rofi"
+  - "dunst"
+  - "nnn"
+  - "pipewire"
+  - "wireplumber"
+  - "polkit-kde-agent"
+  - "qt5-wayland"
+  - "qt6-wayland"
+  - "xdg-desktop-portal-hyprland"
+  - "emptty"
+
+services:
+  - "emptty"
