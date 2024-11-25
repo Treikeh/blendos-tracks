@@ -1,11 +1,11 @@
-impl: 'https://github.com/blend-os/tracks/raw/main'
+impl: "https://github.com/treikeh/blendos-tracks/raw/main"
 
-track: 'blendos-base'
+track: "base"
 
 packages:
-  - 'xfce4'
-  - 'lightdm'
-  - 'lightdm-gtk-greeter'
+  - "xfce4"
+  - "lightdm"
+  - "lightdm-gtk-greeter"
 
 services:
-  - 'lightdm'
+  - "lightdm"

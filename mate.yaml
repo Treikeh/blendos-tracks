@@ -1,12 +1,12 @@
-impl: 'https://github.com/blend-os/tracks/raw/main'
+impl: "https://github.com/treikeh/blendos-tracks/raw/main"
 
-track: 'blendos-base'
+track: "base"
 
 packages:
-  - 'mate'
-  - 'mate-extra'
-  - 'lightdm'
-  - 'lightdm-gtk-greeter'
+  - "mate"
+  - "mate-extra"
+  - "lightdm"
+  - "lightdm-gtk-greeter"
 
 services:
-  - 'lightdm'
+  - "lightdm"
