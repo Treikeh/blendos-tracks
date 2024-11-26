@@ -1,10 +1,10 @@
-impl: "https://github.com/treikeh/blendos-tracks/raw/main"
+impl: 'https://github.com/Treikeh/blendos-tracks/raw/main'
 
-track: "base"
+track: 'base'
 
 packages:
-  - "lxqt"
-  - "sddm"
+  - 'lxqt'
+  - 'sddm'
 
 services:
-  - "sddm"
+  - 'sddm'

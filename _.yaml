@@ -1,18 +1,18 @@
 # This file acts as a user config
 # It's named _ to put it at the top of the folder
-impl: "https://github.com/treikeh/blendos-tracks/raw/main"
+impl: 'https://github.com/Treikeh/blendos-tracks/raw/main'
 
-track: "hyprland"
+track: 'hyprland'
 
 packages:
-  - "vim"
-  - "btop"
-  - "zed"
-  - "pipewire-alsa" # Bevy
-  - "vulkan-intel" # Bevy
-  - "rustup" # Bevy
-  - "clang" # Bevy
-  - "mold" #
+  - 'btop'
+  - 'flatpak'
+  - 'zed'
+  - 'pipewire-alsa' # Bevy
+  - 'vulkan-intel'  # Bevy
+  - 'rustup'        # Bevy
+  - 'clang'         # Bevy
+  - 'mold'          # Bevy
 
-aur-packages:
+#aur-packages:
   #- 'zen-browser-avx2' # Didn't work - Use flatpak

@@ -1,28 +1,28 @@
-impl: "https://github.com/treikeh/blendos-tracks/raw/main"
+impl: 'https://github.com/Treikeh/blendos-tracks/raw/main'
 
-track: "base"
+track: 'base'
 
 packages:
-  - "hyprland"
-  - "hyprpaper"
-  - "hyprpicker"
-  - "hypridle"
-  - "hyprlock"
-  - "hyprcursor"
-  - "hyprlang"
-  - "hyprutils"
-  - "kitty"
-  - "waybar"
-  - "rofi"
-  - "dunst"
-  - "nnn"
-  - "pipewire"
-  - "wireplumber"
-  - "polkit-kde-agent"
-  - "qt5-wayland"
-  - "qt6-wayland"
-  - "xdg-desktop-portal-hyprland"
-  - "emptty"
+  - 'hyprland'
+  - 'hyprpaper'
+  - 'hyprpicker'
+  - 'hypridle'
+  - 'hyprlock'
+  - 'hyprcursor'
+  - 'hyprlang'
+  - 'hyprutils'
+  - 'kitty'
+  - 'waybar'
+  - 'rofi'
+  - 'dunst'
+  - 'nnn'
+  - 'pipewire'
+  - 'wireplumber'
+  - 'polkit-kde-agent'
+  - 'qt5-wayland'
+  - 'qt6-wayland'
+  - 'xdg-desktop-portal-hyprland'
+  - 'emptty'
 
 services:
-  - "emptty"
+  - 'emptty'

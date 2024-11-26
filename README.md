@@ -1,5 +1,7 @@
-# blendOS Tracks
-
+# My BlendOS Tracks
+* USER: `_`
+* HYPRLAND: `hyprland`   WIP!!
+* COSMIC: `cosmic`       WIP!!
 * GNOME: `gnome`
 * Plasma: `plasma`
 * Cinnamon: `cinnamon`
