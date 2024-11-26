@@ -15,14 +15,19 @@ packages:
   - 'waybar'
   - 'rofi'
   - 'dunst'
-  - 'nnn'
+  - 'nautilus'
+  - 'yazi'
   - 'pipewire'
   - 'wireplumber'
+  - 'nm-applet'
   - 'polkit-kde-agent'
   - 'qt5-wayland'
   - 'qt6-wayland'
   - 'xdg-desktop-portal-hyprland'
   - 'emptty'
+
+aur-packages:
+  - 'uwsm'
 
 services:
   - 'emptty'
