@@ -1,41 +1,5 @@
 # My BlendOS Tracks
-* USER: `_`
+* CORE: `core`           Same as `blendos-base` but with a few minor tweaks
+* USER: `_`              User config (`system.yaml` use `_` as its track)
 * HYPRLAND: `hyprland`   WIP!!
-* COSMIC: `cosmic`       WIP!!
 * GNOME: `gnome`
-* Plasma: `plasma`
-* Cinnamon: `cinnamon`
-* LXQT: `lxqt`
-* MATE: `mate`
-* XFCE: `xfce`
-
-## Example GNOME `/system.yaml` (vanilla)
-
-```
-repo: 'https://pkg-repo.blendos.co/'
-
-impl: 'https://github.com/blend-os/tracks/raw/main'
-
-track: 'gnome'
-```
-
-## Example GNOME `/system.yaml` with Caddy
-
-```
-repo: 'https://pkg-repo.blendos.co/'
-
-impl: 'https://github.com/blend-os/tracks/raw/main'
-
-track: 'gnome'
-
-packages:
-    - 'micro'
-    - 'caddy'
-
-services:
-    - 'caddy'
-
-package-repos:
-    - name: 'chaotic-aur'
-      repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
-```

@@ -1,6 +1,6 @@
 impl: 'https://github.com/Treikeh/blendos-tracks/raw/main'
 
-track: 'base'
+track: 'core'
 
 packages:
   - 'hyprland'
