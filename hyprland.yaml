@@ -15,7 +15,7 @@ packages:
   - 'gnome-software'
   - 'kitty'
   - 'waybar'
-  - 'otf-font-awesome'
+  - 'ttf-noto-nerd'
   - 'rofi'
   - 'dunst'
   - 'nautilus'
