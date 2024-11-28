@@ -32,5 +32,5 @@ aur-packages:
   - 'uwsm'
 
 services:
-- 'gdm'
+  - 'gdm'
   #- 'emptty'
