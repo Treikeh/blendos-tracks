@@ -26,6 +26,7 @@ packages:
   - 'qt5-wayland'
   - 'qt6-wayland'
   - 'xdg-desktop-portal-hyprland'
+  - 'stow'
   - 'gdm'
   #- 'emptty'
 
