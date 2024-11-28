@@ -1,7 +1,7 @@
 track: 'custom'
 
 packages:
-  - 'alsa-utils'
+  - "alsa-utils"
   - 'amd-ucode'
   - 'arch-install-scripts'
   - 'b43-fwcutter'
@@ -73,7 +73,7 @@ packages:
   - 'mc'
   - 'mdadm'
   - 'memtest86+'
-  - 'mkinitcpio'
+  - "mkinitcpio"
   - 'mkinitcpio-archiso'
   - 'mkinitcpio-nfs-utils'
   - 'modemmanager'
