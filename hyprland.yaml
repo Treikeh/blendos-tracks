@@ -28,13 +28,11 @@ packages:
   - 'xdg-desktop-portal-hyprland'
   - 'stow'
   #- 'emptty'
-  - 'lemurs'
-  #- 'gdm'
+  - 'ly'
 
 aur-packages:
   - 'uwsm'
 
 services:
   #- 'emptty'
-  - 'lemurs'
-  #- 'gdm'
+  - 'ly'
