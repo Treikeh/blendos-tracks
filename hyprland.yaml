@@ -29,11 +29,11 @@ packages:
   - 'xdg-desktop-portal-hyprland'
   - 'stow'
   - 'gdm'
-  #- 'emptty'
+  #- 'ly'
 
 aur-packages:
   - 'uwsm'
 
 services:
   - 'gdm'
-  #- 'emptty'
+  #- 'ly'
