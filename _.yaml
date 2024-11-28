@@ -6,7 +6,6 @@ track: 'hyprland'
 
 packages:
   - 'btop'
-  - 'flatpak'
   - 'zed'
   - 'pipewire-alsa' # Bevy
   - 'vulkan-intel'  # Bevy
