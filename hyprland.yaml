@@ -25,10 +25,10 @@ packages:
   - 'qt5-wayland'
   - 'qt6-wayland'
   - 'xdg-desktop-portal-hyprland'
-  - 'gdm'
+  - 'emptty'
 
 aur-packages:
   - 'uwsm'
 
 services:
-  - 'gdm'
+  - 'emptty'
