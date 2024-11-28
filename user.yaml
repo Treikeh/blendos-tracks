@@ -1,5 +1,4 @@
 # This file acts as a user config
-# It's named _ to put it at the top of the folder
 impl: 'https://github.com/Treikeh/blendos-tracks/raw/main'
 
 track: 'hyprland'
