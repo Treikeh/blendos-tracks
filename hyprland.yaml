@@ -20,7 +20,7 @@ packages:
   - 'yazi'
   - 'pipewire'
   - 'wireplumber'
-  - 'nm-applet'
+  - 'network-manager-applet'
   - 'polkit-kde-agent'
   - 'qt5-wayland'
   - 'qt6-wayland'
