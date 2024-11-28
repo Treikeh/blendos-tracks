@@ -27,12 +27,12 @@ packages:
   - 'qt6-wayland'
   - 'xdg-desktop-portal-hyprland'
   - 'stow'
-  #- 'emptty'
-  - 'ly'
+  - 'gdm'
+  #- 'ly'
 
 aur-packages:
   - 'uwsm'
 
 services:
-  #- 'emptty'
-  - 'ly'
+  - 'gdm'
+  #- 'ly'
