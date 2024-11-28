@@ -35,6 +35,6 @@ aur-packages:
   - 'uwsm'
 
 services:
-  - 'emptty'
+  #- 'emptty'
   - 'lemurs'
   #- 'gdm'
