@@ -11,6 +11,7 @@ packages:
   - 'hyprcursor'
   - 'hyprlang'
   - 'hyprutils'
+  - 'brightnessctl'
   - 'flatpak'
   - 'gnome-software'
   - 'kitty'
