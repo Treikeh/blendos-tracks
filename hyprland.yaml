@@ -12,6 +12,7 @@ packages:
   - 'hyprlang'
   - 'hyprutils'
   - 'brightnessctl'
+  - 'playerctl'
   - 'flatpak'
   - 'gnome-software'
   - 'kitty'
