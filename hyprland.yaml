@@ -36,8 +36,6 @@ packages:
 
 aur-packages:
   #- 'uwsm'
-  - 'unityhub'
-  - 'cpupower-gui'
 
 services:
   - 'gdm'
