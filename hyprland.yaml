@@ -31,11 +31,12 @@ packages:
   - 'xdg-desktop-portal-hyprland'
   - 'stow'
   - 'gdm'
-  - 'font-awesome'
+  - 'ttf-font-awesome'
   #- 'ly'
 
 aur-packages:
-  - 'uwsm'
+  #- 'uwsm'
+  - 'unityhub'
 
 services:
   - 'gdm'
